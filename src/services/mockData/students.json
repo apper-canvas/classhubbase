@@ -1,0 +1,122 @@
+[
+  {
+    "Id": 1,
+    "firstName": "Emma",
+    "lastName": "Johnson",
+    "email": "emma.johnson@school.edu",
+    "phone": "(555) 123-4567",
+    "dateOfBirth": "2008-03-15",
+    "enrollmentDate": "2023-08-15",
+    "gradeLevel": "10",
+    "studentId": "STU001",
+    "status": "active"
+  },
+  {
+    "Id": 2,
+    "firstName": "Liam",
+    "lastName": "Smith",
+    "email": "liam.smith@school.edu",
+    "phone": "(555) 234-5678",
+    "dateOfBirth": "2007-11-22",
+    "enrollmentDate": "2023-08-15",
+    "gradeLevel": "11",
+    "studentId": "STU002",
+    "status": "active"
+  },
+  {
+    "Id": 3,
+    "firstName": "Olivia",
+    "lastName": "Davis",
+    "email": "olivia.davis@school.edu",
+    "phone": "(555) 345-6789",
+    "dateOfBirth": "2008-07-08",
+    "enrollmentDate": "2023-08-15",
+    "gradeLevel": "10",
+    "studentId": "STU003",
+    "status": "active"
+  },
+  {
+    "Id": 4,
+    "firstName": "Noah",
+    "lastName": "Wilson",
+    "email": "noah.wilson@school.edu",
+    "phone": "(555) 456-7890",
+    "dateOfBirth": "2007-12-03",
+    "enrollmentDate": "2023-08-15",
+    "gradeLevel": "11",
+    "studentId": "STU004",
+    "status": "active"
+  },
+  {
+    "Id": 5,
+    "firstName": "Sophia",
+    "lastName": "Brown",
+    "email": "sophia.brown@school.edu",
+    "phone": "(555) 567-8901",
+    "dateOfBirth": "2008-04-17",
+    "enrollmentDate": "2023-08-15",
+    "gradeLevel": "10",
+    "studentId": "STU005",
+    "status": "active"
+  },
+  {
+    "Id": 6,
+    "firstName": "Mason",
+    "lastName": "Miller",
+    "email": "mason.miller@school.edu",
+    "phone": "(555) 678-9012",
+    "dateOfBirth": "2009-01-25",
+    "enrollmentDate": "2023-08-15",
+    "gradeLevel": "9",
+    "studentId": "STU006",
+    "status": "active"
+  },
+  {
+    "Id": 7,
+    "firstName": "Ava",
+    "lastName": "Anderson",
+    "email": "ava.anderson@school.edu",
+    "phone": "(555) 789-0123",
+    "dateOfBirth": "2008-09-12",
+    "enrollmentDate": "2023-08-15",
+    "gradeLevel": "10",
+    "studentId": "STU007",
+    "status": "active"
+  },
+  {
+    "Id": 8,
+    "firstName": "Ethan",
+    "lastName": "Taylor",
+    "email": "ethan.taylor@school.edu",
+    "phone": "(555) 890-1234",
+    "dateOfBirth": "2007-06-30",
+    "enrollmentDate": "2023-08-15",
+    "gradeLevel": "11",
+    "studentId": "STU008",
+    "status": "active"
+  },
+  {
+    "Id": 9,
+    "firstName": "Isabella",
+    "lastName": "Thomas",
+    "email": "isabella.thomas@school.edu",
+    "phone": "(555) 901-2345",
+    "dateOfBirth": "2009-02-14",
+    "enrollmentDate": "2023-08-15",
+    "gradeLevel": "9",
+    "studentId": "STU009",
+    "status": "active"
+  },
+  {
+    "Id": 10,
+    "firstName": "Lucas",
+    "lastName": "Garcia",
+    "email": "lucas.garcia@school.edu",
+    "phone": "(555) 012-3456",
+    "dateOfBirth": "2008-10-05",
+    "enrollmentDate": "2023-08-15",
+    "gradeLevel": "10",
+    "studentId": "STU010",
+    "status": "active"
+  }
+]

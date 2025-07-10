@@ -1,0 +1,56 @@
+[
+  {
+    "Id": 1,
+    "classId": 1,
+    "title": "Quadratic Equations Quiz",
+    "type": "quiz",
+    "totalPoints": 100,
+    "dueDate": "2024-01-15",
+    "description": "Quiz covering quadratic equations and their applications"
+  },
+  {
+    "Id": 2,
+    "classId": 1,
+    "title": "Calculus Problem Set",
+    "type": "homework",
+    "totalPoints": 50,
+    "dueDate": "2024-01-20",
+    "description": "Problem set on derivatives and integrals"
+  },
+  {
+    "Id": 3,
+    "classId": 2,
+    "title": "Shakespeare Essay",
+    "type": "project",
+    "totalPoints": 150,
+    "dueDate": "2024-01-25",
+    "description": "Analysis of themes in Hamlet"
+  },
+  {
+    "Id": 4,
+    "classId": 3,
+    "title": "Chemical Reactions Lab",
+    "type": "exam",
+    "totalPoints": 200,
+    "dueDate": "2024-01-18",
+    "description": "Laboratory practical on chemical reactions"
+  },
+  {
+    "Id": 5,
+    "classId": 4,
+    "title": "WWII Timeline Project",
+    "type": "project",
+    "totalPoints": 100,
+    "dueDate": "2024-01-30",
+    "description": "Create a detailed timeline of World War II events"
+  },
+  {
+    "Id": 6,
+    "classId": 1,
+    "title": "Midterm Exam",
+    "type": "exam",
+    "totalPoints": 300,
+    "dueDate": "2024-02-01",
+    "description": "Comprehensive midterm covering all topics"
+  }
+]

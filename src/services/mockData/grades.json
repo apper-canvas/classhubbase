@@ -1,0 +1,82 @@
+[
+  {
+    "Id": 1,
+    "studentId": 1,
+    "assignmentId": 1,
+    "score": 95,
+    "submittedDate": "2024-01-15",
+    "comments": "Excellent work on quadratic equations"
+  },
+  {
+    "Id": 2,
+    "studentId": 1,
+    "assignmentId": 2,
+    "score": 88,
+    "submittedDate": "2024-01-20",
+    "comments": "Good understanding of calculus concepts"
+  },
+  {
+    "Id": 3,
+    "studentId": 2,
+    "assignmentId": 3,
+    "score": 92,
+    "submittedDate": "2024-01-25",
+    "comments": "Insightful analysis of Shakespeare's themes"
+  },
+  {
+    "Id": 4,
+    "studentId": 3,
+    "assignmentId": 1,
+    "score": 87,
+    "submittedDate": "2024-01-15",
+    "comments": "Good grasp of quadratic concepts"
+  },
+  {
+    "Id": 5,
+    "studentId": 4,
+    "assignmentId": 4,
+    "score": 91,
+    "submittedDate": "2024-01-18",
+    "comments": "Excellent lab technique and analysis"
+  },
+  {
+    "Id": 6,
+    "studentId": 5,
+    "assignmentId": 1,
+    "score": 93,
+    "submittedDate": "2024-01-15",
+    "comments": "Strong mathematical reasoning"
+  },
+  {
+    "Id": 7,
+    "studentId": 5,
+    "assignmentId": 5,
+    "score": 89,
+    "submittedDate": "2024-01-30",
+    "comments": "Well-organized timeline with good detail"
+  },
+  {
+    "Id": 8,
+    "studentId": 6,
+    "assignmentId": 2,
+    "score": 85,
+    "submittedDate": "2024-01-20",
+    "comments": "Solid understanding of derivatives"
+  },
+  {
+    "Id": 9,
+    "studentId": 7,
+    "assignmentId": 1,
+    "score": 90,
+    "submittedDate": "2024-01-15",
+    "comments": "Clear problem-solving approach"
+  },
+  {
+    "Id": 10,
+    "studentId": 8,
+    "assignmentId": 4,
+    "score": 94,
+    "submittedDate": "2024-01-18",
+    "comments": "Outstanding lab report and conclusions"
+  }
+]
