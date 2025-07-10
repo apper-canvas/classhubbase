@@ -46,8 +46,11 @@ export default {
         surface: '#f8fafc',
         success: '#10b981',
         warning: '#f59e0b',
-        error: '#ef4444',
+error: '#ef4444',
         info: '#3b82f6',
+        border: '#e5e7eb',
+        ring: '#3b82f6',
+        background: '#ffffff',
       },
       fontFamily: {
         sans: ['Inter', 'system-ui', '-apple-system', 'sans-serif'],
